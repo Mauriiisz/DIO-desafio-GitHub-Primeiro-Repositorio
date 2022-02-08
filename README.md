@@ -1,2 +1,2 @@
-# DIO-desafio-GitHub-Primeiro-Repositorio
-Desafio de projeto sobre Git-GitHub
+# Repositorio do Desafio do Bootcamp Dio sobre Git e Github
+Desafio feito no dia 08/02/22
